@@ -1,0 +1,25 @@
+{
+    "name": "nodeflix",
+    "description": "Netflix API Client",
+    "version": "0.0.1",
+    "author": "Johnathan Leppert <johnathan.leppert@gmail.com>",
+    "keywords": ["netflix", "rest", "api", "client"],
+    "dependencies": { },
+    "devDependencies": { },
+    "engines": { "node" : ">0.6.0" },
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/iamleppert/nodeflix.git"
+    },
+    "bugs": {
+        "email": "johnathan.leppert@gmail.com",
+        "url": "http://github.com/iamleppert/nodeflix/issues"
+    },
+    "main": "./index.js",
+    "licenses": [
+      {
+          "type": "MIT",
+          "url": "http://github.com/iamleppert/nodeflix/raw/master/LICENSE"
+      }
+    ]
+}
