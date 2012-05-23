@@ -1,6 +1,5 @@
 var util         = require('util'),
     EventEmitter = require('events').EventEmitter,
-    Request      = require('./lib/Request'),
     Auth         = require('./lib/OAuth').Auth,
     OAuthRequest = require('./lib/OAuth').Request;
 
