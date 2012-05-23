@@ -1,7 +1,7 @@
 {
     "name": "nodeflix",
     "description": "Netflix API Client",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "Johnathan Leppert <johnathan.leppert@gmail.com>",
     "keywords": ["netflix", "rest", "api", "client"],
     "dependencies": { },
