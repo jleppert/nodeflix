@@ -6,9 +6,9 @@ var util         = require('util'),
 var NodeFlix = function(config, endPoints) {
     this.config = config;
     this.endPoints = {
-        host:                   'api.netflix.com',
-        oauth_request_url:      'http://api.netflix.com/oauth/request_token',
-        oauth_access_url:       'http://api.netflix.com/oauth/access_token'
+        host:                   'api-public.netflix.com',
+        oauth_request_url:      'http://api-public.netflix.com/oauth/request_token',
+        oauth_access_url:       'http://api-public.netflix.com/oauth/access_token'
     };
 
     copyTo(endPoints, this.endPoints);
