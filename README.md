@@ -2,6 +2,8 @@ Nodeflix
 ===============
 A simple Netflix API client for node.js.
 
+__Netflix has shutdown their API, I'll leave this code up for anyone interested or if they can use any of the oauth stuff, but meh. I guess if you have an API you have a right to shut it down. Maybe they will come out with a better API in the future, who knows.__
+
 Installing
 ---------------
 
